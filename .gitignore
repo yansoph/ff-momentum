@@ -1,4 +1,4 @@
-# Data files — never upload raw data
+#Data files
 data/
 *.csv
 *.parquet
