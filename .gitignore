@@ -1,0 +1,20 @@
+# Data files — never upload raw data
+data/
+*.csv
+*.parquet
+*.pkl
+
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
